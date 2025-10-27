@@ -63,7 +63,7 @@ A fully-featured iOS social media feed application built with SwiftUI and Core D
    ```
 
 3. **Build and Run**
-   - Select a simulator or device (iOS 17.0+)
+   - Select a simulator or device (iOS 16.0+)
    - Press `Cmd + R` to build and run
    - Grant permissions when prompted
 
