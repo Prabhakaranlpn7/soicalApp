@@ -10,7 +10,8 @@ A fully-featured **iOS social media feed application** built with **SwiftUI**, *
 
 | Create Post | Feed | Comments | Location |
 |-------------|-------|-----------|-----------|
-| ![Create](IMAGE_URL) | ![Feed](IMAGE_URL) | ![Comments](IMAGE_URL) | ![Location](IMAGE_URL) |
+| ![Create](IMAGE_URL) | ![Feed](https://github.com/user-attachments/assets/3396bf88-b3e1-4872-bc44-37f783cb9519) | ![Comments](IMAGE_URL) | ![Location](IMAGE_URL) |
+
 
 ---
 
