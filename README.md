@@ -1,7 +1,15 @@
-
+![simulator_screenshot_BAB92498-0DE7-407F-8042-491E7AD61386](https://github.com/user-attachments/assets/88165be7-b8ca-4be4-945e-59145cb072a8)<img width="1206" height="2622" alt="simulator_screenshot_8DDACC09-7A23-4A79-845F-265CAC98162B" src="https://github.com/user-attachments/assets/037898c9-3ed0-4cd1-839d-56a2fd0bf72e" />
 ## Social Media Feed Application
 
 A fully-featured iOS social media feed application built with SwiftUI and Core Data, following the MVVM architecture pattern. This app allows users to create posts with images, descriptions, and locations, and interact through likes, comments, and sharing.
+
+
+
+<img width="1206" height="2622" alt="simulator_screenshot_3D7B86DF-8F85-4DC7-953D-D10E44247E40" src="https://github.com/user-attachments/assets/fd081301-8aba-44a3-adb1-ece22666494e" />
+<img width="1206" height="2622" alt="simulator_screenshot_01451368-5244-4EE6-8E0E-2BA3324A347D" src="https://github.com/user-attachments/assets/dfae858e-c508-4b16-a4dc-11138a0295ed" />
+<img width="1206" height="2622" alt="simulator_screenshot_3B600FD7-43AB-4B92-9A30-B102455FD0AD" src="https://github.com/user-attachments/assets/cd0b6d5f-4002-42f4-8ef0-730b59548f45" />
+![Uploading simulator_screenshot_A2A4D478-2048-4614-A284-19BEB8BB576A.png…]()
+
 
 
 
