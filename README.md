@@ -8,10 +8,11 @@ A fully-featured **iOS social media feed application** built with **SwiftUI**, *
 
 > *(Replace image placeholders with actual image links)*
 
-| Create Post | Feed | Comments | Location |
+| Create Post | Feed | Comments |
+|-------------|-------|-----------|
+| <img src="https://github.com/user-attachments/assets/59e533a3-715d-46b2-bf6a-7eb46cf64429" width="250"> | <img src="https://github.com/user-attachments/assets/3396bf88-b3e1-4872-bc44-37f783cb9519" width="250"> | <img src="https://github.com/user-attachments/assets/ed37311f-205a-4442-a03e-e951a8a8a053" width="250"> | Feed | Comments | Location |
 |-------------|-------|-----------|-----------|
-| ![Create](IMAGE_URL) | ![Feed](https://github.com/user-attachments/assets/3396bf88-b3e1-4872-bc44-37f783cb9519) | ![Comments](IMAGE_URL) | ![Location](IMAGE_URL) |
-
+| ![Create](IMAGE_URL) | ![Feed](IMAGE_URL) | ![Comments](IMAGE_URL) | ![Location](IMAGE_URL) |
 
 ---
 
